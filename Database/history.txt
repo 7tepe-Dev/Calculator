@@ -1,0 +1,1 @@
+[{"currentNumber": "355", "currentOperator": "+"}, {"currentNumber": "490", "currentOperator": "="}]
